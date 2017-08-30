@@ -1,0 +1,16 @@
+.button{
+    height: 180px;
+    width: 210px;
+    background-color: #262626;
+    color:#fff;
+}
+.button-right{
+    color:#029FC6;
+    background-color: #1C1C1C;
+}
+
+.stack{
+    width:20px;
+    background-color: #151515; 
+    padding:0px;   
+}

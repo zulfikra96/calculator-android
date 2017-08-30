@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/zulfikra/project/nativescript/calculator/platforms/android/build/intermediates/res/merged/F0/debug/layout-v21/notification_action.xml",
+        "source": "/home/zulfikra/project/nativescript/calculator/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/zulfikra/project/nativescript/calculator/platforms/android/build/intermediates/res/merged/F0/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/zulfikra/project/nativescript/calculator/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/zulfikra/project/nativescript/calculator/platforms/android/build/intermediates/res/merged/F0/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/zulfikra/project/nativescript/calculator/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/zulfikra/project/nativescript/calculator/platforms/android/build/intermediates/res/merged/F0/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/zulfikra/project/nativescript/calculator/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

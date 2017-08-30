@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/zulfikra/project/nativescript/calculator/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xhdpi/background.png",
+        "source": "/home/zulfikra/project/nativescript/calculator/platforms/android/src/main/res/drawable-xhdpi/background.png"
+    },
+    {
+        "merged": "/home/zulfikra/project/nativescript/calculator/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xhdpi/logo.png",
+        "source": "/home/zulfikra/project/nativescript/calculator/platforms/android/src/main/res/drawable-xhdpi/logo.png"
+    },
+    {
+        "merged": "/home/zulfikra/project/nativescript/calculator/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xhdpi/icon.png",
+        "source": "/home/zulfikra/project/nativescript/calculator/platforms/android/src/main/res/drawable-xhdpi/icon.png"
+    }
+]

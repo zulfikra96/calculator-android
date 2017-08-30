@@ -1,0 +1,26 @@
+<FlexboxLayout flexDirection="row" class="stack">
+    <Button text="7" class="button" (tap)="onTapNumb(7)"></Button>
+    <Button text="8" class="button" (tap)="onTapNumb(8)" style="margin-left:-10px;"></Button>
+    <Button text="9" class="button" (tap)="onTapNumb(9)" style="margin-left:-10px;"></Button>
+    <Button text="/" class="button button-right"  (tap)="onTapNumb('reduce')" style="margin-left:-10px;"></Button>
+</FlexboxLayout>
+<FlexboxLayout flexDirection="row" class="stack" style="margin-top:-20px;">
+    <Button text="4" class="button" (tap)="onTapNumb(4)" ></Button>
+    <Button text="5" class="button" (tap)="onTapNumb(5)" style="margin-left:-10px;"></Button>
+    <Button text="6" class="button" (tap)="onTapNumb(6)" style="margin-left:-10px;"></Button>
+    <Button text="+" class="button button-right" (tap)="onTapNumb('add')" style="margin-left:-10px;"></Button>
+</FlexboxLayout>
+<FlexboxLayout flexDirection="row" class="stack" style="margin-top:-20px;">
+    <Button text="1" class="button" (tap)="onTapNumb(1)"></Button>
+    <Button text="2" class="button" (tap)="onTapNumb(2)" style="margin-left:-10px;"></Button>
+    <Button text="3" class="button" (tap)="onTapNumb(3)" style="margin-left:-10px;"></Button>
+    <Button text="x" class="button button-right" (tap)="onTapNumb('times')" style="margin-left:-10px;"></Button>
+</FlexboxLayout>
+<FlexboxLayout flexDirection="row" class="stack" style="margin-top:-20px;">
+    <Button text="0" class="button" (tap)="onTapNumb(0)" style="width:590px;"></Button>
+    <Button text="_" class="button button-right" (tap)="onTapNumb('min')" style="margin-left:-10px;"></Button>
+</FlexboxLayout>
+<FlexboxLayout flexDirection="row" class="stack" style="margin-top:-20px;">
+    <Button text="=" class="button button-right" (tap)="onTapNumb('equal')" style="width:590px;"></Button>
+    <Button text="C" class="button button-right" (tap)="onTapNumb('clear')" style="margin-left:-10px;"></Button>
+</FlexboxLayout>

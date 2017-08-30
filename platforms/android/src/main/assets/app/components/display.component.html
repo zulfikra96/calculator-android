@@ -1,0 +1,8 @@
+<FlexboxLayout flexDirection="column" style="background-color:#151515;">
+    <FlexboxLayout flexDirection="column">
+        <Label text="{{ output }}" class="display"></Label>       
+    </FlexboxLayout>
+    <FlexboxLayout flexDirection="column" >
+        <ButtonComponent (childEvent)="buttonTap($event)"></ButtonComponent>
+    </FlexboxLayout>
+</FlexboxLayout>
